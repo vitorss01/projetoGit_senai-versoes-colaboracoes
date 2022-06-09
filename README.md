@@ -1,4 +1,5 @@
 # senai-versoes-colaboracoes
+
 Repositório de versões e colaborações. 
 Atividade do curso SENAI para a modalidade versionamento UC 7, turma 04.
 Nestes meus primeiros passos eu aprendi os comandos básicos do git e como transferir arquivos para o github.
