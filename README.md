@@ -6,3 +6,4 @@ Nestes meus primeiros passos eu aprendi os comandos básicos do git e como trans
 Aprendi como funciona as branchs, inclusive criei duas apenas para fazer os testes propostos na atividade do curso.
 Foi ótima a experiência de trabalhar de modo colaborativo utilizando versionamento.
 Não tive problemas com a demanda das atividades propostas pelo curso SENAI FULL-STACK e todos os códigos funcionaram como o esperado, sem erros.
+
